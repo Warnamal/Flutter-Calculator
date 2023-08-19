@@ -1,16 +1,11 @@
-# calculater
+Features
 
-A new Flutter project.
+    Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division calculations effortlessly.
 
-## Getting Started
+    User-Friendly Interface: The app boasts an intuitive and straightforward interface, making it suitable for users of all ages.
 
-This project is a starting point for a Flutter application.
+    Clear Display: The calculator provides a clear and easy-to-read display, ensuring that you can input and review your calculations without any confusion.
 
-A few resources to get you started if this is your first Flutter project:
+    Keyboard and Touch Support: Use the app via traditional keyboard input on desktops or tap the buttons on touch-enabled devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Error Prevention: The app includes checks to prevent invalid inputs and division by zero, ensuring accurate and reliable results.
